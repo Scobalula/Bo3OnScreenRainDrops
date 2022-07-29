@@ -30,7 +30,7 @@ Finally, you'll want to assign the targetname: `postfx_rain_trigger` to the trig
 # Debugging Common Issues
 
 * **Duplicate Assets**: While unlikely, you've installed assets that have the same names as mine, you'll have to resolve this yourself.
-* **Rain Drops appe in-doors**: You haven't correctly added the triggers or you haven't compiled your map after adding the triggers.
+* **Rain Drops appear in-doors**: You haven't correctly added the triggers or you haven't compiled your map after adding the triggers.
 * **Clientfield Mismatch**: You didn't add the using statement described in Step 4 to either your gsc or csc file meaning a clientfield was not registered in one or the other.
 
 # Reporting Problems
