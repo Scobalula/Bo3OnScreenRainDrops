@@ -19,7 +19,7 @@ material,generic_filter_blkstn_sprite_rain
 #using scripts\zm\_zm_postfx_rain_drops;
 ```
 
-Finally, compile your map/mod to see the changes, if all went well and you've added some items, there should be some dropping with the zombies!
+Finally, compile your map/mod to see the changes, if all went well, you should have rain drops on your screen that disables when in-doors!
 
 # Adding In-Door Triggers
 
